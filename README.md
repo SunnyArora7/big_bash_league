@@ -1,7 +1,8 @@
 # dynamic_ui_task
 
 <p align="center">
-  <img src="https://github.com/SunnyArora7/big_bash_league/blob/main/repo_resources/big_bash_league.gif"/>
+
+  <img src="https://github.com/SunnyArora7/big_bash_league/blob/main/repo_resources/big_bash_league.gif"  width="250" alt="sr_1"/>
 </p>
 
 
