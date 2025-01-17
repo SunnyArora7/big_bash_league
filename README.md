@@ -1,16 +1,30 @@
-# big_bash_league
+# dynamic_ui_task
 
-A new Flutter project.
+<p align="center">
+  <img src=""/>
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
+1. Clone the repository to your local machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ```bash
+   git clone https://github.com/SunnyArora7/big_bash_league.git
+ ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navigate to the project directory:
+
+ ```bash
+   cd big_bash_league
+ ```
+
+3. Install dependencies by running this command in IDE terminal:
+
+ ```bash
+   flutter pub get
+ ```
+
+### Download the app
+
+Download the android app from [Release](https://github.com/SunnyArora7/big_bash_league/releases/tag/Release)
