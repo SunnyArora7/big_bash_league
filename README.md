@@ -22,6 +22,3 @@
    flutter pub get
  ```
 
-### Download the app
-
-Download the android app from [Release](https://github.com/SunnyArora7/big_bash_league/releases/tag/Release)
