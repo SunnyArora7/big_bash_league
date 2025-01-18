@@ -1,4 +1,5 @@
 import 'package:big_bash_league/home/screen/home_screen.dart';
+import 'package:big_bash_league/home/screen/live_cricket_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(primarySwatch: Colors.blue),
       darkTheme: ThemeData.dark().copyWith(primaryColor: Colors.red),
-      home: HomeScreen(),
+      home: LiveCricketScreen(),
     );
   }
 }
